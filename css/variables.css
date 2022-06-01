@@ -1,0 +1,13 @@
+:root {
+  --topNavigationColor: #000;
+  --bottomNavigationColor: rgba(0, 0, 0, 0.4);
+  --colorLinkNav: #fff;
+  --dinamicColor: #9D5CD0;
+  --activeColor: #C283F3;
+  --backFocusColor: #7943A4;
+
+  --btnColor: #9D5CD0;
+  --btnBorderActiveColor: rgba(209, 169, 240, 1);
+
+  --colorTitleandDescr: #333;
+}
